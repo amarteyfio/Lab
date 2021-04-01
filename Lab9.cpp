@@ -26,7 +26,7 @@ void populateArray(int N){
 }
 
 //SearchValidEntries Method
-void searchValidEntries(int XL,int YL,int XH, int YH, int A[101][101]){
+String searchValidEntries(int XL,int YL,int XH, int YH, int A[101][101]){
     int i;
     int j;
     
